@@ -1,5 +1,5 @@
 # OpenWX-Fleet-Monitor
-With OpenWX Fleet Monitor you manage your OpenWXSDR and OpenWXTTGO receivers at a glance.
+With OpenWX Fleet Monitor you manage your [OpenWXSDR](https://github.com/DL2MF/OpenWXSDR), [OpenWXDeck](https://github.com/DL2MF/OpenWXDeck) and [OpenWXTTGO](https://github.com/DL2MF/OpenWXTTGO) receivers at a glance.
 
 <img width="1525" height="1090" alt="grafik" src="https://github.com/user-attachments/assets/a11fcd63-2cda-473e-a885-b1bd7a684aaa" />
 
@@ -12,4 +12,4 @@ With OpenWX Fleet Monitor you manage your OpenWXSDR and OpenWXTTGO receivers at 
 <img width="1525" height="1136" alt="grafik" src="https://github.com/user-attachments/assets/17ef8926-d954-486a-8139-2a648de2b3eb" />
 
 
-# Coming this week ...
+# Coming soon ...
